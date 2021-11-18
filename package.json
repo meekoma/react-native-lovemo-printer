@@ -1,0 +1,26 @@
+
+{
+  "name": "react-native-lovemo-printer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meekoma/react-native-lovemo-printer.git"
+  },
+  "peerDependencies": {
+    "react-native": "^0.66.3",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
